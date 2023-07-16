@@ -29,7 +29,7 @@ This project aims to analyze the Oracle Employee Database and understand how the
 To work on this project, you will need an Oracle database management system (DBMS) and the necessary credentials to access the database. Here are the steps to get started:
 
 1. Clone this repository to your local machine using the following command:
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/khanaakif/Oracle_HR.git
 
 2. Set up your Oracle DBMS and ensure it is running correctly.
 
